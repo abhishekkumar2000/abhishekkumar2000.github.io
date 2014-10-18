@@ -60,6 +60,7 @@ version: v1.0.0
 sass:
   sass_dir: _scss
   style: :expanded # You might prefer to minify using :compressed
+style.scss: blue
 
 # Use the following plug-ins
 gems:
